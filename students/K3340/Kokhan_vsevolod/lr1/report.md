@@ -173,7 +173,7 @@ python3 client.py
 
 
 Пример работы:
-![Пример работы http сервера](images\ex3_HttpServer.png)
+![Пример работы http сервера](images/ex3_HttpServer.png)
 
 ### Выводы
 
@@ -321,7 +321,7 @@ client_socket.connect(
 
 **Вывод сервера и клиентов в консоли**
 
-![Пример работы чата](images\ex4_Chat.png)
+![Пример работы чата](images/ex4_Chat.png)
 
 ## Задание 5
 
